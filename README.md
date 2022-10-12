@@ -1,2 +1,2 @@
-# ANN_Temperature_Timeseries
-In this repository, I model and forecast temperature time series using ANN  
+# Forecasting Temperature Timeseries
+In this repository, I forecast temperature time series of New York city using different deep learning methods including ANN, RNN (LSTM) and CNN as well as using the traditional time series analysis approaches including ARIMA and Moving average techniques and compare them. The data is download from Kaggle for [daily_temperature_of_major_cities](https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities). 
